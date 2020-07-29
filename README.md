@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> 
 
-<img src="https://img.shields.io/badge/Python -0000af" />  <img src="https://img.shields.io/badge/Kotlin -1cc4b4" /> <img src="https://img.shields.io/badge/PHP -00faff" /> <img src="https://img.shields.io/badge/Java -FF0000" />
+<img src="https://img.shields.io/badge/Python -0000af" />  <img src="https://img.shields.io/badge/Kotlin -1cc4b4" /> <img src="https://img.shields.io/badge/PHP -00faff" /> <img src="https://img.shields.io/badge/Java -FF0000" />  <img src="https://img.shields.io/badge/C -Da0500" />
 
 <img src="https://img.shields.io/badge/MySql -aaa0af" /> <img src="https://img.shields.io/badge/sqlite -aa30af" />
 
