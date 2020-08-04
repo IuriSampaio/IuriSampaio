@@ -14,32 +14,41 @@
 <details>
 	<summary>Tools</summary>
 	<ul>
-    	<li>Visual Studio Code</li>
-		  <li>Android Studio</li>
-      <li>Visual Studio</li>
-      <li>PyCharm</li>
-		  <li>Sublime text</li>
-		  <li>Vim</li>  
-  </ul>
+		<li>Android Studio</li>
+      		<li>Visual Studio Code</li>
+		<li>Visual Studio</li>
+      		<li>PyCharm</li>
+		<li>Sublime text</li>
+		<li>Vim</li>
+		<li>Postman</li>
+		<li>Virtual Box</li>
+		<li>WorkBench</li>
+		<li>mysql shell</li>
+		<li>Cisco Packet Tracer</li>
+		<li>SketchUp</li>
+		<li>brModelo</li>
+		<li>Visio</li>
+		<li>CodeBlocks</li>
+  	</ul>
 
 </details>
 <hr>
 <details>
 	<summary>Operating Systems</summary>
-	<ul>
-		    <li>Windows Server</li>
-        <li>Debian</li>
-        <li>Ubuntu</li>
-        <li>Kali</li>
-        <li>Windows</li>
-	</ul>
+		<ul>
+		    	<li>Windows Server</li>
+        		<li>Debian</li>
+        		<li>Ubuntu</li>
+        		<li>Kali</li>
+        		<li>Windows</li>
+		</ul>
 </details>
 
 </br>
 
 ### I never worked with anything in the area, so please hire me
 
-<a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
+<a href="./CV-IuriSampaio.pdf"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
 <a href="https://www.linkedin.com/in/iuri-sampaio/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/iuri__s/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.gmail.com/iurisampaio18@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="gmail"></a>
