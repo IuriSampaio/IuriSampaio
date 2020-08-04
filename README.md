@@ -31,6 +31,7 @@
 		<li>CodeBlocks</li>
 		<li>Eclipse</li>
 		<li>Atom</li>
+		<li>AWS</li>
   	</ul>
 
 </details>
