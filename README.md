@@ -51,7 +51,7 @@
 
 ### I never worked with anything in the area, so please hire me
 
-<a href="./CV-IuriSampaio.pdf"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
+<a href="./CV-IuriSampaio.pdf"><img src="https://img.shields.io/badge/🔽Look_My_CV-002366"/></a>
 <a href="https://www.linkedin.com/in/iuri-sampaio/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/iuri__s/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.gmail.com/iurisampaio18@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="gmail"></a>
