@@ -3,49 +3,15 @@
 
 ### I'am learning 💻
 
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/SCSS -ffcbdb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> 
+<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> 
 
-<img src="https://img.shields.io/badge/Python -0000af" />  <img src="https://img.shields.io/badge/Kotlin -1cc4b4" /> <img src="https://img.shields.io/badge/PHP -00faff" /> <img src="https://img.shields.io/badge/Java -FF0000" />  <img src="https://img.shields.io/badge/C -Da0500" />
+<img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/TypeScript -1cf3b7" /> 
+
+<img src="https://img.shields.io/badge/Python -0000af" />  <img src="https://img.shields.io/badge/Kotlin -1fc4b4" /> <img src="https://img.shields.io/badge/PHP -00faff" /> <img src="https://img.shields.io/badge/Java -FF0000" />  <img src="https://img.shields.io/badge/C -Da0500" />
 
 <img src="https://img.shields.io/badge/MySql -aaa0af" /> <img src="https://img.shields.io/badge/sqlite -aa30af" />
 
 <img src="https://img.shields.io/badge/ShellScripting -00ff00" /> 
-
-<details>
-	<summary>Tools</summary>
-	<ul>
-		<li>Android Studio</li>
-      		<li>Visual Studio Code</li>
-		<li>Visual Studio</li>
-      		<li>PyCharm</li>
-		<li>Sublime text</li>
-		<li>Vim</li>
-		<li>Postman</li>
-		<li>Virtual Box</li>
-		<li>WorkBench</li>
-		<li>mysql shell</li>
-		<li>Cisco Packet Tracer</li>
-		<li>SketchUp</li>
-		<li>brModelo</li>
-		<li>Visio</li>
-		<li>CodeBlocks</li>
-		<li>Eclipse</li>
-		<li>Atom</li>
-		<li>AWS</li>
-  	</ul>
-
-</details>
-<hr>
-<details>
-	<summary>Operating Systems</summary>
-		<ul>
-		    	<li>Windows Server</li>
-        		<li>Debian</li>
-        		<li>Ubuntu</li>
-        		<li>Kali</li>
-        		<li>Windows</li>
-		</ul>
-</details>
 
 </br>
 
@@ -53,5 +19,4 @@
 
 <a href="./CV-IuriSampaio.pdf"><img src="https://img.shields.io/badge/🔽Look_My_CV-002366"/></a>
 <a href="https://www.linkedin.com/in/iuri-sampaio/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/iuri__s/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.gmail.com/iurisampaio18@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="gmail"></a>
