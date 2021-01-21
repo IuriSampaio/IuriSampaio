@@ -7,7 +7,7 @@
 
 ## GITHUB
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IuriSampaio&hide=issues&show_icons=true&title_color=aaa&text_color=ddd&icon_color=aabbff&bg_color=232323)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IuriSampaio&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IuriSampaio&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### I never worked with anything in the area, so please hire me
