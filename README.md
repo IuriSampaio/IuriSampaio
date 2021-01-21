@@ -1,8 +1,6 @@
 # Hi there 👋
 ## My name is Iuri Sampaio and i try to be a programer 🤙
 
-### I'am learning 💻
-
 <img src="https://img.shields.io/badge/HTML5-ff7851?logo=html&logoColor=white&style=flat-square" /> 👨🏾‍💻 <img src="https://img.shields.io/badge/CSS3-44b2fb?logo=css&logoColor=white&style=flat-square" /> 👨🏾‍💻 <img src="https://img.shields.io/badge/JavaScript-ffc742?logo=javascript&logoColor=white&style=flat-square" /> 👨🏾‍💻 <img src="https://img.shields.io/badge/TypeScript-1cf3b7?logo=typescript&logoColor=white&style=flat-square" /> 👨🏾‍💻 <img src="https://img.shields.io/badge/Python-0000af?logo=python&logoColor=white&style=flat-square" /> 👨🏾‍💻 <img src="https://img.shields.io/badge/Kotlin-1fc4b4?logo=kotlin&logoColor=white&style=flat-square" /> 👨🏾‍💻 <img src="https://img.shields.io/badge/PHP-00faff?logo=php&logoColor=white&style=flat-square" /> 👨🏾‍💻 <img src="https://img.shields.io/badge/Java-FF0000?logo=java&logoColor=white&style=flat-square" /> 👨🏾‍💻 <img src="https://img.shields.io/badge/-Da0500?logo=C&logoColor=white&style=flat-square" /> 👨🏾‍💻 <img src="https://img.shields.io/badge/MySql-aaa0af?logo=mysql&logoColor=000&style=flat-square" /> 👨🏾‍💻 <img src="https://img.shields.io/badge/sqlite-aa30af?logo=sqlite&logoColor=white&style=flat-square" /> 👨🏾‍💻 <img src="https://img.shields.io/badge/ShellScripting-00ff00?logo=Linux&logoColor=000&style=flat-square" /> 
 
 ## GITHUB
